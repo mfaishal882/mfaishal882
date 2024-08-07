@@ -2,7 +2,7 @@
  
 </div>  
   
-Golang Backend Engineer and also experienced with PHP Code Igniter, C# and Flutter.   
+Backend Engineer that experienced with Node JS, Goalng, Laravel, PHP Code Igniter, C# and Flutter.   
   
 - 🏢  From Indonesia 🇮🇩  
   
